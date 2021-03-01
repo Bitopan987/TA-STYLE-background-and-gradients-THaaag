@@ -199,8 +199,8 @@ h2 {
 }
 
 .header .btn {
-  width: 45px;
-  height: 20px;
+  width: 56px;
+  height: 28px;
   border: 0;
   border-radius: 19px;
   text-align: left;
@@ -209,7 +209,7 @@ h2 {
 }
 
 .fa-circle {
-  font-size: 18px;
+  font-size: 25px;
   color: #242c43;
 }
 
@@ -320,6 +320,11 @@ h2 {
 
 .section-2 {
   padding: 3rem 0;
+}
+
+.section-2 h2 {
+  color: #fff;
+  padding-bottom: 1.2rem;
 }
 
 .section-2 .square {
